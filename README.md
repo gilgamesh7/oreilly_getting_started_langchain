@@ -16,3 +16,6 @@ With Lucas Soares
 - [Click to view the full event details or join when the event is in session](https://learning.oreilly.com/live-events/-/0636920098586/0790145077751/?utm_medium=calendar&utm_source=schedule%2Breminder&utm_campaign=calendar%2Bgoogle&utm_content=getting-started-with-langchain)
 - [Link to Github](https://github.com/EnkrateiaLucca/oreilly_live_training_getting_started_with_langchain)
 
+# NOTE
+- When changing & pushing to this repo, it has a giant presentation. So use this in the command line before oush : git config http.postBuffer 524288000
+- 
